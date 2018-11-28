@@ -1,4 +1,4 @@
-package clientesLoja;
+package cadastroClientes.clientesLoja;
 
 public class Cliente extends ClasseAbstrataClienteLoja {
 

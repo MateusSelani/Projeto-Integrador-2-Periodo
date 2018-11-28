@@ -1,5 +1,5 @@
 import cadastroClientes.CadastrarCliente;
-import clientesLoja.Cliente;
+import cadastroClientes.clientesLoja.Cliente;
 
 public class testePrincipal {
     public static void main(String[] args) {
@@ -12,7 +12,6 @@ public class testePrincipal {
 
         cliente.getClass();
         cadastrarCliente.getClass();
-
 
     }
 }

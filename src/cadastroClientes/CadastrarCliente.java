@@ -1,6 +1,6 @@
 package cadastroClientes;
 
-import clientesLoja.Cliente;
+import cadastroClientes.clientesLoja.Cliente;
 
 public class CadastrarCliente extends ClasseAbstrataCadastrarClienteLoja {
 
